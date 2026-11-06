@@ -1,1 +1,15 @@
-[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"io.github.tranainthomas25_spec.twa","sha256_cert_fingerprints":["A2:98:55:42:6E:B7:97:35:01:45:4C:1C:0D:18:40:2A:B0:98:68:72:A7:E8:5A:61:4B:68:D9:1B:AC:22:6C:EE"]}}]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.tranainthomas25_spec.twa",
+      "sha256_cert_fingerprints": [
+        "A2:98:55:42:6E:B7:97:35:01:45:4C:1C:0D:18:40:2A:B0:98:68:72:A7:E8:5A:61:4B:68:D9:1B:AC:22:6C:EE",
+        "6B:AF:DB:B9:2D:2F:96:4D:02:78:78:55:28:48:5E:70:67:0D:C9:B2:EE:A4:C5:78:91:F0:FF:73:87:7A:64:CA"
+      ]
+    }
+  }
+]
