@@ -23,5 +23,17 @@
         "B5:E2:D7:0D:18:A3:D3:B6:BA:93:E1:B0:A1:FF:E6:2F:A2:76:EA:73:B1:79:98:13:7D:DB:73:CE:A5:C9:5C:D8"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.tranainthomas25_spec.pronobasket",
+      "sha256_cert_fingerprints": [
+        "F0:9F:05:52:AC:C1:0B:FC:D5:B3:77:76:B1:44:0C:1D:B4:4C:69:97:84:D5:CF:EB:AB:BD:3B:83:6A:8D:D1:ED"
+      ]
+    }
   }
 ]
