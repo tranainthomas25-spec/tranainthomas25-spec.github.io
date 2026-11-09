@@ -11,5 +11,17 @@
         "6B:AF:DB:B9:2D:2F:96:4D:02:78:78:55:28:48:5E:70:67:0D:C9:B2:EE:A4:C5:78:91:F0:FF:73:87:7A:64:CA"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.tranainthomas25_spec.pronohockey",
+      "sha256_cert_fingerprints": [
+        "B5:E2:D7:0D:18:A3:D3:B6:BA:93:E1:B0:A1:FF:E6:2F:A2:76:EA:73:B1:79:98:13:7D:DB:73:CE:A5:C9:5C:D8"
+      ]
+    }
   }
 ]
