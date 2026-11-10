@@ -35,5 +35,17 @@
         "F0:9F:05:52:AC:C1:0B:FC:D5:B3:77:76:B1:44:0C:1D:B4:4C:69:97:84:D5:CF:EB:AB:BD:3B:83:6A:8D:D1:ED"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.tranainthomas25_spec.coachfoot",
+      "sha256_cert_fingerprints": [
+        "C2:16:88:BF:65:48:89:B1:33:C7:E7:21:04:B6:B2:B9:EE:7B:CE:A3:10:5E:B7:00:7C:60:47:15:B1:92:BC:38"
+      ]
+    }
   }
 ]
