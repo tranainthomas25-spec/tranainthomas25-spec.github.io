@@ -47,5 +47,17 @@
         "C2:16:88:BF:65:48:89:B1:33:C7:E7:21:04:B6:B2:B9:EE:7B:CE:A3:10:5E:B7:00:7C:60:47:15:B1:92:BC:38"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.tranainthomas25_spec.pronoturf",
+      "sha256_cert_fingerprints": [
+        "93:FA:38:20:C0:04:33:2D:52:3F:19:09:CF:A6:70:10:90:59:D4:49:90:09:77:9B:6C:CB:17:59:BE:77:F5:DC"
+      ]
+    }
   }
 ]
