@@ -59,5 +59,17 @@
         "93:FA:38:20:C0:04:33:2D:52:3F:19:09:CF:A6:70:10:90:59:D4:49:90:09:77:9B:6C:CB:17:59:BE:77:F5:DC"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.tranainthomas25_spec.betsuivi",
+      "sha256_cert_fingerprints": [
+        "E0:F3:20:4F:92:D8:94:E1:C2:92:AF:10:59:D6:B6:7E:8A:A7:C9:F2:A8:20:17:1D:88:01:3C:B4:2A:79:B4:D7"
+      ]
+    }
   }
 ]
