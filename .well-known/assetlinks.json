@@ -71,5 +71,17 @@
         "E0:F3:20:4F:92:D8:94:E1:C2:92:AF:10:59:D6:B6:7E:8A:A7:C9:F2:A8:20:17:1D:88:01:3C:B4:2A:79:B4:D7"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.tranainthomas25_spec.verybadtour",
+      "sha256_cert_fingerprints": [
+        "9A:41:6B:54:C0:5A:A8:44:48:BC:08:93:4C:E2:1A:7E:F0:06:12:47:3D:C3:A8:4D:59:61:D6:F3:36:40:CB:00"
+      ]
+    }
   }
 ]
